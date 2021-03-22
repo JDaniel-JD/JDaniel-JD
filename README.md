@@ -1,6 +1,6 @@
 #  Hello World! I'm José Daniel! ✌️
 #### I'm a Jr FrontEnd Developer.
-- I'm 23 years old 👓
+- I'm 23 years old 🌱
 - I'm from SP-Brazil ✨
 <div>  
 I am studying   *HMTL - CSS - JS*

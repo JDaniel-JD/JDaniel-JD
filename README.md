@@ -12,3 +12,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-daniel-jd/)
 [<img src="https://img.shields.io/github/followers/JDaniel-JD?label=follow&style=social" height="22" title="Follow me" />](https://github.com/JDaniel-JD) 
+
+![Snake animation](https://github.com/JDaniel-JD/JDaniel-JD/blob/output/github-contribution-grid-snake.svg)
